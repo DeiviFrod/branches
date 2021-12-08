@@ -1,0 +1,8 @@
+Короткое описанеие (Summary):
+Серёзность (Severity):
+Приоритет (Priority):
+Окружение:
+Шаги воспроизведения (Steps to Reproduce):
+Фактический результат (Actual result):
+Ожидаемый результат (Expected Result):
+
